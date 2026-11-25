@@ -596,3 +596,5 @@ bash scripts/run_cpfair.sh --backbone lightgcn --device cpu --output "$CHECK" \
 | `cache/`, `native/` | Training input caches and locally compiled shared libraries |
 
 Training resumes from the last completed epoch when the output directory and training inputs match. Use separate output directories when changing the evaluation inputs or running multiple processes for the same method. Parallel fairness searches can reuse a completed baseline through `--baseline-output`. The rerankers use full-catalog score matrices and candidate masks. Some methods also build a per-user sorting index.
+
+The raw datasets used in our experiments can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1so0lckI6N6_niVEYaBu-LIcpOdZf99kj?usp=sharing)
