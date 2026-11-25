@@ -1,0 +1,61 @@
+{
+  "learning_rate": [
+    0.003
+  ],
+  "embedding_size": [
+    64
+  ],
+  "batch_size": [
+    2048
+  ],
+  "weight_decay": [
+    1e-05
+  ],
+  "inner_size": [
+    256
+  ],
+  "n_heads": [
+    2
+  ],
+  "n_layers": [
+    2
+  ],
+  "hidden_dropout_prob": [
+    0.1
+  ],
+  "attn_dropout_prob": [
+    0.1
+  ],
+  "hidden_act": [
+    "gelu"
+  ],
+  "layer_norm_eps": [
+    1e-12
+  ],
+  "initializer_range": [
+    0.02
+  ],
+  "gradient_clip_norm": [
+    5.0
+  ],
+  "M": [
+    0.00013,
+    6.5e-05,
+    0.00026
+  ],
+  "rank_model": [
+    "IPS"
+  ],
+  "update_epoch": [
+    1
+  ],
+  "epochs": [
+    1000
+  ],
+  "eval_every": [
+    5
+  ],
+  "eval_batch_size": [
+    128
+  ]
+}

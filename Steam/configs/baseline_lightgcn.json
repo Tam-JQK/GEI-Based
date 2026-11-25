@@ -1,0 +1,30 @@
+{
+  "learning_rate": [
+    0.001,
+    0.0005
+  ],
+  "reg_lambda": [
+    0.0
+  ],
+  "GCN_layer": [
+    2
+  ],
+  "embedding_size": [
+    64
+  ],
+  "batch_size": [
+    4096
+  ],
+  "weight_decay": [
+    1e-05
+  ],
+  "epochs": [
+    1000
+  ],
+  "eval_every": [
+    5
+  ],
+  "eval_batch_size": [
+    256
+  ]
+}

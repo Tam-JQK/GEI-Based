@@ -1,0 +1,40 @@
+{
+  "learning_rate": [
+    0.01
+  ],
+  "reg_lambda": [
+    0.0
+  ],
+  "GCN_layer": [
+    2
+  ],
+  "embedding_size": [
+    64
+  ],
+  "batch_size": [
+    128
+  ],
+  "weight_decay": [
+    1e-05
+  ],
+  "M": [
+    1e-09,
+    5e-10,
+    2e-09
+  ],
+  "rank_model": [
+    "IPS"
+  ],
+  "update_epoch": [
+    1
+  ],
+  "epochs": [
+    1000
+  ],
+  "eval_every": [
+    5
+  ],
+  "eval_batch_size": [
+    256
+  ]
+}

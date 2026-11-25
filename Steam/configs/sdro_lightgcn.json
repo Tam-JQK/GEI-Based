@@ -1,0 +1,40 @@
+{
+  "learning_rate": [
+    0.001
+  ],
+  "reg_lambda": [
+    0.0
+  ],
+  "GCN_layer": [
+    2
+  ],
+  "embedding_size": [
+    64
+  ],
+  "batch_size": [
+    2048
+  ],
+  "weight_decay": [
+    1e-05
+  ],
+  "eta": [
+    550,
+    275.0,
+    1100
+  ],
+  "rank_model": [
+    "SDRO"
+  ],
+  "update_epoch": [
+    1
+  ],
+  "epochs": [
+    1000
+  ],
+  "eval_every": [
+    5
+  ],
+  "eval_batch_size": [
+    256
+  ]
+}

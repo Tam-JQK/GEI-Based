@@ -1,0 +1,4461 @@
+{
+  "0": {
+    "item_count": 4019,
+    "freq": 109604,
+    "avg_freq": 27.271460562328937,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "1": {
+    "item_count": 33,
+    "freq": 814,
+    "avg_freq": 24.666666666666668,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "2": {
+    "item_count": 13,
+    "freq": 146,
+    "avg_freq": 11.23076923076923,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "3": {
+    "item_count": 13,
+    "freq": 263,
+    "avg_freq": 20.23076923076923,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "4": {
+    "item_count": 14,
+    "freq": 125,
+    "avg_freq": 8.928571428571429,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "5": {
+    "item_count": 11,
+    "freq": 323,
+    "avg_freq": 29.363636363636363,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "6": {
+    "item_count": 74,
+    "freq": 7458,
+    "avg_freq": 100.78378378378379,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "7": {
+    "item_count": 64,
+    "freq": 27065,
+    "avg_freq": 422.890625,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "8": {
+    "item_count": 11,
+    "freq": 112,
+    "avg_freq": 10.181818181818182,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "9": {
+    "item_count": 22,
+    "freq": 718,
+    "avg_freq": 32.63636363636363,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "10": {
+    "item_count": 10,
+    "freq": 64,
+    "avg_freq": 6.4,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "11": {
+    "item_count": 16,
+    "freq": 605,
+    "avg_freq": 37.8125,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "12": {
+    "item_count": 21,
+    "freq": 342,
+    "avg_freq": 16.285714285714285,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "13": {
+    "item_count": 29,
+    "freq": 2072,
+    "avg_freq": 71.44827586206897,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "14": {
+    "item_count": 19,
+    "freq": 134,
+    "avg_freq": 7.052631578947368,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "15": {
+    "item_count": 11,
+    "freq": 443,
+    "avg_freq": 40.27272727272727,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "16": {
+    "item_count": 22,
+    "freq": 235,
+    "avg_freq": 10.681818181818182,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "17": {
+    "item_count": 43,
+    "freq": 1144,
+    "avg_freq": 26.6046511627907,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "18": {
+    "item_count": 18,
+    "freq": 223,
+    "avg_freq": 12.38888888888889,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "19": {
+    "item_count": 10,
+    "freq": 123,
+    "avg_freq": 12.3,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "20": {
+    "item_count": 38,
+    "freq": 812,
+    "avg_freq": 21.36842105263158,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "21": {
+    "item_count": 27,
+    "freq": 4633,
+    "avg_freq": 171.59259259259258,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "22": {
+    "item_count": 11,
+    "freq": 112,
+    "avg_freq": 10.181818181818182,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "23": {
+    "item_count": 13,
+    "freq": 104,
+    "avg_freq": 8.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "24": {
+    "item_count": 53,
+    "freq": 1225,
+    "avg_freq": 23.11320754716981,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "25": {
+    "item_count": 10,
+    "freq": 49,
+    "avg_freq": 4.9,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "26": {
+    "item_count": 19,
+    "freq": 733,
+    "avg_freq": 38.578947368421055,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "27": {
+    "item_count": 22,
+    "freq": 1525,
+    "avg_freq": 69.31818181818181,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "28": {
+    "item_count": 13,
+    "freq": 622,
+    "avg_freq": 47.84615384615385,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "29": {
+    "item_count": 16,
+    "freq": 164,
+    "avg_freq": 10.25,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "30": {
+    "item_count": 10,
+    "freq": 65,
+    "avg_freq": 6.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "31": {
+    "item_count": 19,
+    "freq": 499,
+    "avg_freq": 26.263157894736842,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "32": {
+    "item_count": 13,
+    "freq": 117,
+    "avg_freq": 9.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "33": {
+    "item_count": 42,
+    "freq": 538,
+    "avg_freq": 12.80952380952381,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "34": {
+    "item_count": 23,
+    "freq": 1004,
+    "avg_freq": 43.65217391304348,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "35": {
+    "item_count": 27,
+    "freq": 417,
+    "avg_freq": 15.444444444444445,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "36": {
+    "item_count": 11,
+    "freq": 451,
+    "avg_freq": 41.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "37": {
+    "item_count": 49,
+    "freq": 624,
+    "avg_freq": 12.73469387755102,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "38": {
+    "item_count": 10,
+    "freq": 156,
+    "avg_freq": 15.6,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "39": {
+    "item_count": 26,
+    "freq": 9318,
+    "avg_freq": 358.38461538461536,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "40": {
+    "item_count": 16,
+    "freq": 159,
+    "avg_freq": 9.9375,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "41": {
+    "item_count": 20,
+    "freq": 8822,
+    "avg_freq": 441.1,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "42": {
+    "item_count": 23,
+    "freq": 219,
+    "avg_freq": 9.521739130434783,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "43": {
+    "item_count": 41,
+    "freq": 3441,
+    "avg_freq": 83.92682926829268,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "44": {
+    "item_count": 11,
+    "freq": 87,
+    "avg_freq": 7.909090909090909,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "45": {
+    "item_count": 16,
+    "freq": 178,
+    "avg_freq": 11.125,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "46": {
+    "item_count": 20,
+    "freq": 150,
+    "avg_freq": 7.5,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "47": {
+    "item_count": 12,
+    "freq": 218,
+    "avg_freq": 18.166666666666668,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "48": {
+    "item_count": 26,
+    "freq": 218,
+    "avg_freq": 8.384615384615385,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "49": {
+    "item_count": 34,
+    "freq": 1225,
+    "avg_freq": 36.029411764705884,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "50": {
+    "item_count": 156,
+    "freq": 1916,
+    "avg_freq": 12.282051282051283,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "51": {
+    "item_count": 19,
+    "freq": 125,
+    "avg_freq": 6.578947368421052,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "52": {
+    "item_count": 10,
+    "freq": 125,
+    "avg_freq": 12.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "53": {
+    "item_count": 49,
+    "freq": 4176,
+    "avg_freq": 85.22448979591837,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "54": {
+    "item_count": 15,
+    "freq": 192,
+    "avg_freq": 12.8,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "55": {
+    "item_count": 12,
+    "freq": 72,
+    "avg_freq": 6.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "56": {
+    "item_count": 64,
+    "freq": 15140,
+    "avg_freq": 236.5625,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "57": {
+    "item_count": 21,
+    "freq": 1901,
+    "avg_freq": 90.52380952380952,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "58": {
+    "item_count": 15,
+    "freq": 456,
+    "avg_freq": 30.4,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "59": {
+    "item_count": 15,
+    "freq": 233,
+    "avg_freq": 15.533333333333333,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "60": {
+    "item_count": 26,
+    "freq": 706,
+    "avg_freq": 27.153846153846153,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "61": {
+    "item_count": 15,
+    "freq": 102,
+    "avg_freq": 6.8,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "62": {
+    "item_count": 14,
+    "freq": 184,
+    "avg_freq": 13.142857142857142,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "63": {
+    "item_count": 14,
+    "freq": 3688,
+    "avg_freq": 263.42857142857144,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "64": {
+    "item_count": 20,
+    "freq": 1232,
+    "avg_freq": 61.6,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "65": {
+    "item_count": 12,
+    "freq": 89,
+    "avg_freq": 7.416666666666667,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "66": {
+    "item_count": 10,
+    "freq": 373,
+    "avg_freq": 37.3,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "67": {
+    "item_count": 23,
+    "freq": 1531,
+    "avg_freq": 66.56521739130434,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "68": {
+    "item_count": 15,
+    "freq": 90,
+    "avg_freq": 6.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "69": {
+    "item_count": 37,
+    "freq": 1065,
+    "avg_freq": 28.783783783783782,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "70": {
+    "item_count": 13,
+    "freq": 61,
+    "avg_freq": 4.6923076923076925,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "71": {
+    "item_count": 21,
+    "freq": 209,
+    "avg_freq": 9.952380952380953,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "72": {
+    "item_count": 34,
+    "freq": 2030,
+    "avg_freq": 59.705882352941174,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "73": {
+    "item_count": 14,
+    "freq": 817,
+    "avg_freq": 58.357142857142854,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "74": {
+    "item_count": 25,
+    "freq": 3875,
+    "avg_freq": 155.0,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "75": {
+    "item_count": 28,
+    "freq": 4535,
+    "avg_freq": 161.96428571428572,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "76": {
+    "item_count": 21,
+    "freq": 607,
+    "avg_freq": 28.904761904761905,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "77": {
+    "item_count": 12,
+    "freq": 197,
+    "avg_freq": 16.416666666666668,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "78": {
+    "item_count": 13,
+    "freq": 215,
+    "avg_freq": 16.53846153846154,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "79": {
+    "item_count": 10,
+    "freq": 651,
+    "avg_freq": 65.1,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "80": {
+    "item_count": 18,
+    "freq": 188,
+    "avg_freq": 10.444444444444445,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "81": {
+    "item_count": 101,
+    "freq": 19995,
+    "avg_freq": 197.97029702970298,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "82": {
+    "item_count": 123,
+    "freq": 4984,
+    "avg_freq": 40.520325203252035,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "83": {
+    "item_count": 13,
+    "freq": 930,
+    "avg_freq": 71.53846153846153,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "84": {
+    "item_count": 15,
+    "freq": 120,
+    "avg_freq": 8.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "85": {
+    "item_count": 12,
+    "freq": 109,
+    "avg_freq": 9.083333333333334,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "86": {
+    "item_count": 10,
+    "freq": 364,
+    "avg_freq": 36.4,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "87": {
+    "item_count": 23,
+    "freq": 550,
+    "avg_freq": 23.91304347826087,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "88": {
+    "item_count": 30,
+    "freq": 591,
+    "avg_freq": 19.7,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "89": {
+    "item_count": 10,
+    "freq": 63,
+    "avg_freq": 6.3,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "90": {
+    "item_count": 15,
+    "freq": 710,
+    "avg_freq": 47.333333333333336,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "91": {
+    "item_count": 14,
+    "freq": 874,
+    "avg_freq": 62.42857142857143,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "92": {
+    "item_count": 14,
+    "freq": 322,
+    "avg_freq": 23.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "93": {
+    "item_count": 10,
+    "freq": 77,
+    "avg_freq": 7.7,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "94": {
+    "item_count": 16,
+    "freq": 596,
+    "avg_freq": 37.25,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "95": {
+    "item_count": 10,
+    "freq": 99,
+    "avg_freq": 9.9,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "96": {
+    "item_count": 17,
+    "freq": 568,
+    "avg_freq": 33.411764705882355,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "97": {
+    "item_count": 34,
+    "freq": 3453,
+    "avg_freq": 101.55882352941177,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "98": {
+    "item_count": 10,
+    "freq": 92,
+    "avg_freq": 9.2,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "99": {
+    "item_count": 13,
+    "freq": 76,
+    "avg_freq": 5.846153846153846,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "100": {
+    "item_count": 10,
+    "freq": 260,
+    "avg_freq": 26.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "101": {
+    "item_count": 11,
+    "freq": 188,
+    "avg_freq": 17.09090909090909,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "102": {
+    "item_count": 57,
+    "freq": 799,
+    "avg_freq": 14.017543859649123,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "103": {
+    "item_count": 89,
+    "freq": 21843,
+    "avg_freq": 245.42696629213484,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "104": {
+    "item_count": 12,
+    "freq": 161,
+    "avg_freq": 13.416666666666666,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "105": {
+    "item_count": 13,
+    "freq": 582,
+    "avg_freq": 44.76923076923077,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "106": {
+    "item_count": 24,
+    "freq": 406,
+    "avg_freq": 16.916666666666668,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "107": {
+    "item_count": 42,
+    "freq": 8893,
+    "avg_freq": 211.73809523809524,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "108": {
+    "item_count": 25,
+    "freq": 1125,
+    "avg_freq": 45.0,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "109": {
+    "item_count": 10,
+    "freq": 4736,
+    "avg_freq": 473.6,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "110": {
+    "item_count": 14,
+    "freq": 151,
+    "avg_freq": 10.785714285714286,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "111": {
+    "item_count": 23,
+    "freq": 2989,
+    "avg_freq": 129.95652173913044,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "112": {
+    "item_count": 25,
+    "freq": 156,
+    "avg_freq": 6.24,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "113": {
+    "item_count": 77,
+    "freq": 744,
+    "avg_freq": 9.662337662337663,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "114": {
+    "item_count": 18,
+    "freq": 143,
+    "avg_freq": 7.944444444444445,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "115": {
+    "item_count": 33,
+    "freq": 2086,
+    "avg_freq": 63.21212121212121,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "116": {
+    "item_count": 14,
+    "freq": 768,
+    "avg_freq": 54.857142857142854,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "117": {
+    "item_count": 14,
+    "freq": 470,
+    "avg_freq": 33.57142857142857,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "118": {
+    "item_count": 12,
+    "freq": 207,
+    "avg_freq": 17.25,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "119": {
+    "item_count": 10,
+    "freq": 60,
+    "avg_freq": 6.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "120": {
+    "item_count": 35,
+    "freq": 615,
+    "avg_freq": 17.571428571428573,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "121": {
+    "item_count": 11,
+    "freq": 157,
+    "avg_freq": 14.272727272727273,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "122": {
+    "item_count": 17,
+    "freq": 153,
+    "avg_freq": 9.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "123": {
+    "item_count": 94,
+    "freq": 25635,
+    "avg_freq": 272.71276595744683,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "124": {
+    "item_count": 30,
+    "freq": 4513,
+    "avg_freq": 150.43333333333334,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "125": {
+    "item_count": 10,
+    "freq": 320,
+    "avg_freq": 32.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "126": {
+    "item_count": 10,
+    "freq": 99,
+    "avg_freq": 9.9,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "127": {
+    "item_count": 11,
+    "freq": 197,
+    "avg_freq": 17.90909090909091,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "128": {
+    "item_count": 10,
+    "freq": 212,
+    "avg_freq": 21.2,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "129": {
+    "item_count": 13,
+    "freq": 1971,
+    "avg_freq": 151.6153846153846,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "130": {
+    "item_count": 12,
+    "freq": 204,
+    "avg_freq": 17.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "131": {
+    "item_count": 23,
+    "freq": 2228,
+    "avg_freq": 96.8695652173913,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "132": {
+    "item_count": 15,
+    "freq": 744,
+    "avg_freq": 49.6,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "133": {
+    "item_count": 20,
+    "freq": 336,
+    "avg_freq": 16.8,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "134": {
+    "item_count": 20,
+    "freq": 649,
+    "avg_freq": 32.45,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "135": {
+    "item_count": 17,
+    "freq": 413,
+    "avg_freq": 24.294117647058822,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "136": {
+    "item_count": 19,
+    "freq": 373,
+    "avg_freq": 19.63157894736842,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "137": {
+    "item_count": 31,
+    "freq": 729,
+    "avg_freq": 23.516129032258064,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "138": {
+    "item_count": 13,
+    "freq": 99,
+    "avg_freq": 7.615384615384615,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "139": {
+    "item_count": 15,
+    "freq": 325,
+    "avg_freq": 21.666666666666668,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "140": {
+    "item_count": 33,
+    "freq": 2546,
+    "avg_freq": 77.15151515151516,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "141": {
+    "item_count": 24,
+    "freq": 956,
+    "avg_freq": 39.833333333333336,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "142": {
+    "item_count": 11,
+    "freq": 836,
+    "avg_freq": 76.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "143": {
+    "item_count": 12,
+    "freq": 2085,
+    "avg_freq": 173.75,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "144": {
+    "item_count": 10,
+    "freq": 57,
+    "avg_freq": 5.7,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "145": {
+    "item_count": 21,
+    "freq": 255,
+    "avg_freq": 12.142857142857142,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "146": {
+    "item_count": 12,
+    "freq": 147,
+    "avg_freq": 12.25,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "147": {
+    "item_count": 12,
+    "freq": 132,
+    "avg_freq": 11.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "148": {
+    "item_count": 50,
+    "freq": 488,
+    "avg_freq": 9.76,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "149": {
+    "item_count": 130,
+    "freq": 10823,
+    "avg_freq": 83.25384615384615,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "150": {
+    "item_count": 121,
+    "freq": 1022,
+    "avg_freq": 8.446280991735538,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "151": {
+    "item_count": 15,
+    "freq": 934,
+    "avg_freq": 62.266666666666666,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "152": {
+    "item_count": 15,
+    "freq": 110,
+    "avg_freq": 7.333333333333333,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "153": {
+    "item_count": 18,
+    "freq": 1929,
+    "avg_freq": 107.16666666666667,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "154": {
+    "item_count": 15,
+    "freq": 439,
+    "avg_freq": 29.266666666666666,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "155": {
+    "item_count": 20,
+    "freq": 929,
+    "avg_freq": 46.45,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "156": {
+    "item_count": 11,
+    "freq": 64,
+    "avg_freq": 5.818181818181818,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "157": {
+    "item_count": 40,
+    "freq": 11889,
+    "avg_freq": 297.225,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "158": {
+    "item_count": 14,
+    "freq": 197,
+    "avg_freq": 14.071428571428571,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "159": {
+    "item_count": 10,
+    "freq": 129,
+    "avg_freq": 12.9,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "160": {
+    "item_count": 11,
+    "freq": 139,
+    "avg_freq": 12.636363636363637,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "161": {
+    "item_count": 20,
+    "freq": 1979,
+    "avg_freq": 98.95,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "162": {
+    "item_count": 10,
+    "freq": 236,
+    "avg_freq": 23.6,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "163": {
+    "item_count": 11,
+    "freq": 123,
+    "avg_freq": 11.181818181818182,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "164": {
+    "item_count": 19,
+    "freq": 197,
+    "avg_freq": 10.368421052631579,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "165": {
+    "item_count": 11,
+    "freq": 118,
+    "avg_freq": 10.727272727272727,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "166": {
+    "item_count": 11,
+    "freq": 130,
+    "avg_freq": 11.818181818181818,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "167": {
+    "item_count": 12,
+    "freq": 88,
+    "avg_freq": 7.333333333333333,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "168": {
+    "item_count": 10,
+    "freq": 106,
+    "avg_freq": 10.6,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "169": {
+    "item_count": 11,
+    "freq": 58,
+    "avg_freq": 5.2727272727272725,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "170": {
+    "item_count": 12,
+    "freq": 105,
+    "avg_freq": 8.75,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "171": {
+    "item_count": 13,
+    "freq": 166,
+    "avg_freq": 12.76923076923077,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "172": {
+    "item_count": 20,
+    "freq": 499,
+    "avg_freq": 24.95,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "173": {
+    "item_count": 10,
+    "freq": 65,
+    "avg_freq": 6.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "174": {
+    "item_count": 12,
+    "freq": 590,
+    "avg_freq": 49.166666666666664,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "175": {
+    "item_count": 11,
+    "freq": 96,
+    "avg_freq": 8.727272727272727,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "176": {
+    "item_count": 30,
+    "freq": 1278,
+    "avg_freq": 42.6,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "177": {
+    "item_count": 14,
+    "freq": 238,
+    "avg_freq": 17.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "178": {
+    "item_count": 13,
+    "freq": 544,
+    "avg_freq": 41.84615384615385,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "179": {
+    "item_count": 17,
+    "freq": 286,
+    "avg_freq": 16.823529411764707,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "180": {
+    "item_count": 12,
+    "freq": 102,
+    "avg_freq": 8.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "181": {
+    "item_count": 11,
+    "freq": 736,
+    "avg_freq": 66.9090909090909,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "182": {
+    "item_count": 54,
+    "freq": 3548,
+    "avg_freq": 65.70370370370371,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "183": {
+    "item_count": 15,
+    "freq": 187,
+    "avg_freq": 12.466666666666667,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "184": {
+    "item_count": 18,
+    "freq": 319,
+    "avg_freq": 17.72222222222222,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "185": {
+    "item_count": 62,
+    "freq": 2770,
+    "avg_freq": 44.67741935483871,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "186": {
+    "item_count": 11,
+    "freq": 69,
+    "avg_freq": 6.2727272727272725,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "187": {
+    "item_count": 23,
+    "freq": 218,
+    "avg_freq": 9.478260869565217,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "188": {
+    "item_count": 15,
+    "freq": 253,
+    "avg_freq": 16.866666666666667,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "189": {
+    "item_count": 17,
+    "freq": 331,
+    "avg_freq": 19.470588235294116,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "190": {
+    "item_count": 28,
+    "freq": 638,
+    "avg_freq": 22.785714285714285,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "191": {
+    "item_count": 33,
+    "freq": 411,
+    "avg_freq": 12.454545454545455,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "192": {
+    "item_count": 10,
+    "freq": 72,
+    "avg_freq": 7.2,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "193": {
+    "item_count": 12,
+    "freq": 199,
+    "avg_freq": 16.583333333333332,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "194": {
+    "item_count": 11,
+    "freq": 663,
+    "avg_freq": 60.27272727272727,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "195": {
+    "item_count": 13,
+    "freq": 142,
+    "avg_freq": 10.923076923076923,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "196": {
+    "item_count": 11,
+    "freq": 143,
+    "avg_freq": 13.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "197": {
+    "item_count": 11,
+    "freq": 179,
+    "avg_freq": 16.272727272727273,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "198": {
+    "item_count": 18,
+    "freq": 249,
+    "avg_freq": 13.833333333333334,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "199": {
+    "item_count": 10,
+    "freq": 78,
+    "avg_freq": 7.8,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "200": {
+    "item_count": 43,
+    "freq": 472,
+    "avg_freq": 10.976744186046512,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "201": {
+    "item_count": 14,
+    "freq": 367,
+    "avg_freq": 26.214285714285715,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "202": {
+    "item_count": 10,
+    "freq": 53,
+    "avg_freq": 5.3,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "203": {
+    "item_count": 20,
+    "freq": 529,
+    "avg_freq": 26.45,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "204": {
+    "item_count": 10,
+    "freq": 59,
+    "avg_freq": 5.9,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "205": {
+    "item_count": 15,
+    "freq": 115,
+    "avg_freq": 7.666666666666667,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "206": {
+    "item_count": 102,
+    "freq": 4513,
+    "avg_freq": 44.245098039215684,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "207": {
+    "item_count": 12,
+    "freq": 1230,
+    "avg_freq": 102.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "208": {
+    "item_count": 10,
+    "freq": 145,
+    "avg_freq": 14.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "209": {
+    "item_count": 11,
+    "freq": 119,
+    "avg_freq": 10.818181818181818,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "210": {
+    "item_count": 10,
+    "freq": 310,
+    "avg_freq": 31.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "211": {
+    "item_count": 11,
+    "freq": 40,
+    "avg_freq": 3.6363636363636362,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "212": {
+    "item_count": 19,
+    "freq": 325,
+    "avg_freq": 17.105263157894736,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "213": {
+    "item_count": 23,
+    "freq": 2862,
+    "avg_freq": 124.43478260869566,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "214": {
+    "item_count": 12,
+    "freq": 64,
+    "avg_freq": 5.333333333333333,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "215": {
+    "item_count": 12,
+    "freq": 83,
+    "avg_freq": 6.916666666666667,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "216": {
+    "item_count": 13,
+    "freq": 538,
+    "avg_freq": 41.38461538461539,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "217": {
+    "item_count": 10,
+    "freq": 72,
+    "avg_freq": 7.2,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "218": {
+    "item_count": 14,
+    "freq": 197,
+    "avg_freq": 14.071428571428571,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "219": {
+    "item_count": 27,
+    "freq": 298,
+    "avg_freq": 11.037037037037036,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "220": {
+    "item_count": 111,
+    "freq": 4072,
+    "avg_freq": 36.68468468468468,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "221": {
+    "item_count": 37,
+    "freq": 3147,
+    "avg_freq": 85.05405405405405,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "222": {
+    "item_count": 37,
+    "freq": 1078,
+    "avg_freq": 29.135135135135137,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "223": {
+    "item_count": 23,
+    "freq": 1140,
+    "avg_freq": 49.56521739130435,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "224": {
+    "item_count": 27,
+    "freq": 3882,
+    "avg_freq": 143.77777777777777,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "225": {
+    "item_count": 50,
+    "freq": 4908,
+    "avg_freq": 98.16,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "226": {
+    "item_count": 12,
+    "freq": 187,
+    "avg_freq": 15.583333333333334,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "227": {
+    "item_count": 11,
+    "freq": 659,
+    "avg_freq": 59.90909090909091,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "228": {
+    "item_count": 21,
+    "freq": 410,
+    "avg_freq": 19.523809523809526,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "229": {
+    "item_count": 14,
+    "freq": 1333,
+    "avg_freq": 95.21428571428571,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "230": {
+    "item_count": 13,
+    "freq": 1902,
+    "avg_freq": 146.30769230769232,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "231": {
+    "item_count": 58,
+    "freq": 1187,
+    "avg_freq": 20.46551724137931,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "232": {
+    "item_count": 11,
+    "freq": 135,
+    "avg_freq": 12.272727272727273,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "233": {
+    "item_count": 12,
+    "freq": 2976,
+    "avg_freq": 248.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "234": {
+    "item_count": 38,
+    "freq": 258,
+    "avg_freq": 6.7894736842105265,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "235": {
+    "item_count": 10,
+    "freq": 282,
+    "avg_freq": 28.2,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "236": {
+    "item_count": 24,
+    "freq": 402,
+    "avg_freq": 16.75,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "237": {
+    "item_count": 10,
+    "freq": 317,
+    "avg_freq": 31.7,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "238": {
+    "item_count": 10,
+    "freq": 254,
+    "avg_freq": 25.4,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "239": {
+    "item_count": 24,
+    "freq": 179,
+    "avg_freq": 7.458333333333333,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "240": {
+    "item_count": 15,
+    "freq": 153,
+    "avg_freq": 10.2,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "241": {
+    "item_count": 11,
+    "freq": 130,
+    "avg_freq": 11.818181818181818,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "242": {
+    "item_count": 35,
+    "freq": 786,
+    "avg_freq": 22.457142857142856,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "243": {
+    "item_count": 13,
+    "freq": 393,
+    "avg_freq": 30.23076923076923,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "244": {
+    "item_count": 62,
+    "freq": 9729,
+    "avg_freq": 156.91935483870967,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "245": {
+    "item_count": 11,
+    "freq": 161,
+    "avg_freq": 14.636363636363637,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "246": {
+    "item_count": 34,
+    "freq": 500,
+    "avg_freq": 14.705882352941176,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "247": {
+    "item_count": 22,
+    "freq": 4166,
+    "avg_freq": 189.36363636363637,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "248": {
+    "item_count": 14,
+    "freq": 226,
+    "avg_freq": 16.142857142857142,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "249": {
+    "item_count": 18,
+    "freq": 1194,
+    "avg_freq": 66.33333333333333,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "250": {
+    "item_count": 27,
+    "freq": 206,
+    "avg_freq": 7.62962962962963,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "251": {
+    "item_count": 13,
+    "freq": 1181,
+    "avg_freq": 90.84615384615384,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "252": {
+    "item_count": 10,
+    "freq": 468,
+    "avg_freq": 46.8,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "253": {
+    "item_count": 10,
+    "freq": 99,
+    "avg_freq": 9.9,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "254": {
+    "item_count": 22,
+    "freq": 250,
+    "avg_freq": 11.363636363636363,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "255": {
+    "item_count": 17,
+    "freq": 241,
+    "avg_freq": 14.176470588235293,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "256": {
+    "item_count": 44,
+    "freq": 3661,
+    "avg_freq": 83.20454545454545,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "257": {
+    "item_count": 17,
+    "freq": 1013,
+    "avg_freq": 59.588235294117645,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "258": {
+    "item_count": 28,
+    "freq": 2967,
+    "avg_freq": 105.96428571428571,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "259": {
+    "item_count": 21,
+    "freq": 2065,
+    "avg_freq": 98.33333333333333,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "260": {
+    "item_count": 19,
+    "freq": 2166,
+    "avg_freq": 114.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "261": {
+    "item_count": 45,
+    "freq": 561,
+    "avg_freq": 12.466666666666667,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "262": {
+    "item_count": 18,
+    "freq": 192,
+    "avg_freq": 10.666666666666666,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "263": {
+    "item_count": 10,
+    "freq": 56,
+    "avg_freq": 5.6,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "264": {
+    "item_count": 12,
+    "freq": 52,
+    "avg_freq": 4.333333333333333,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "265": {
+    "item_count": 34,
+    "freq": 552,
+    "avg_freq": 16.235294117647058,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "266": {
+    "item_count": 18,
+    "freq": 5298,
+    "avg_freq": 294.3333333333333,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "267": {
+    "item_count": 69,
+    "freq": 1998,
+    "avg_freq": 28.956521739130434,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "268": {
+    "item_count": 15,
+    "freq": 142,
+    "avg_freq": 9.466666666666667,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "269": {
+    "item_count": 11,
+    "freq": 170,
+    "avg_freq": 15.454545454545455,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "270": {
+    "item_count": 12,
+    "freq": 135,
+    "avg_freq": 11.25,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "271": {
+    "item_count": 35,
+    "freq": 484,
+    "avg_freq": 13.82857142857143,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "272": {
+    "item_count": 31,
+    "freq": 264,
+    "avg_freq": 8.516129032258064,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "273": {
+    "item_count": 11,
+    "freq": 101,
+    "avg_freq": 9.181818181818182,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "274": {
+    "item_count": 10,
+    "freq": 268,
+    "avg_freq": 26.8,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "275": {
+    "item_count": 21,
+    "freq": 1352,
+    "avg_freq": 64.38095238095238,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "276": {
+    "item_count": 11,
+    "freq": 82,
+    "avg_freq": 7.454545454545454,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "277": {
+    "item_count": 23,
+    "freq": 3071,
+    "avg_freq": 133.52173913043478,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "278": {
+    "item_count": 14,
+    "freq": 175,
+    "avg_freq": 12.5,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "279": {
+    "item_count": 12,
+    "freq": 372,
+    "avg_freq": 31.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "280": {
+    "item_count": 38,
+    "freq": 12010,
+    "avg_freq": 316.05263157894734,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "281": {
+    "item_count": 64,
+    "freq": 12865,
+    "avg_freq": 201.015625,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "282": {
+    "item_count": 31,
+    "freq": 180,
+    "avg_freq": 5.806451612903226,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "283": {
+    "item_count": 35,
+    "freq": 3600,
+    "avg_freq": 102.85714285714286,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "284": {
+    "item_count": 24,
+    "freq": 455,
+    "avg_freq": 18.958333333333332,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "285": {
+    "item_count": 15,
+    "freq": 98,
+    "avg_freq": 6.533333333333333,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "286": {
+    "item_count": 23,
+    "freq": 1085,
+    "avg_freq": 47.17391304347826,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "287": {
+    "item_count": 11,
+    "freq": 3571,
+    "avg_freq": 324.6363636363636,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "288": {
+    "item_count": 10,
+    "freq": 55,
+    "avg_freq": 5.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "289": {
+    "item_count": 10,
+    "freq": 106,
+    "avg_freq": 10.6,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "290": {
+    "item_count": 12,
+    "freq": 290,
+    "avg_freq": 24.166666666666668,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "291": {
+    "item_count": 12,
+    "freq": 142,
+    "avg_freq": 11.833333333333334,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "292": {
+    "item_count": 14,
+    "freq": 131,
+    "avg_freq": 9.357142857142858,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "293": {
+    "item_count": 47,
+    "freq": 670,
+    "avg_freq": 14.25531914893617,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "294": {
+    "item_count": 14,
+    "freq": 170,
+    "avg_freq": 12.142857142857142,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "295": {
+    "item_count": 29,
+    "freq": 220,
+    "avg_freq": 7.586206896551724,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "296": {
+    "item_count": 12,
+    "freq": 589,
+    "avg_freq": 49.083333333333336,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "297": {
+    "item_count": 11,
+    "freq": 240,
+    "avg_freq": 21.818181818181817,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "298": {
+    "item_count": 16,
+    "freq": 299,
+    "avg_freq": 18.6875,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "299": {
+    "item_count": 13,
+    "freq": 100,
+    "avg_freq": 7.6923076923076925,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "300": {
+    "item_count": 11,
+    "freq": 93,
+    "avg_freq": 8.454545454545455,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "301": {
+    "item_count": 13,
+    "freq": 323,
+    "avg_freq": 24.846153846153847,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "302": {
+    "item_count": 20,
+    "freq": 105,
+    "avg_freq": 5.25,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "303": {
+    "item_count": 23,
+    "freq": 188,
+    "avg_freq": 8.173913043478262,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "304": {
+    "item_count": 13,
+    "freq": 88,
+    "avg_freq": 6.769230769230769,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "305": {
+    "item_count": 10,
+    "freq": 93,
+    "avg_freq": 9.3,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "306": {
+    "item_count": 13,
+    "freq": 201,
+    "avg_freq": 15.461538461538462,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "307": {
+    "item_count": 41,
+    "freq": 5450,
+    "avg_freq": 132.9268292682927,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "308": {
+    "item_count": 34,
+    "freq": 729,
+    "avg_freq": 21.441176470588236,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "309": {
+    "item_count": 20,
+    "freq": 487,
+    "avg_freq": 24.35,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "310": {
+    "item_count": 11,
+    "freq": 133,
+    "avg_freq": 12.090909090909092,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "311": {
+    "item_count": 16,
+    "freq": 108,
+    "avg_freq": 6.75,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "312": {
+    "item_count": 11,
+    "freq": 133,
+    "avg_freq": 12.090909090909092,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "313": {
+    "item_count": 24,
+    "freq": 650,
+    "avg_freq": 27.083333333333332,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "314": {
+    "item_count": 14,
+    "freq": 443,
+    "avg_freq": 31.642857142857142,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "315": {
+    "item_count": 15,
+    "freq": 375,
+    "avg_freq": 25.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "316": {
+    "item_count": 22,
+    "freq": 311,
+    "avg_freq": 14.136363636363637,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "317": {
+    "item_count": 11,
+    "freq": 94,
+    "avg_freq": 8.545454545454545,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "318": {
+    "item_count": 12,
+    "freq": 172,
+    "avg_freq": 14.333333333333334,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "319": {
+    "item_count": 11,
+    "freq": 5246,
+    "avg_freq": 476.90909090909093,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "320": {
+    "item_count": 11,
+    "freq": 332,
+    "avg_freq": 30.181818181818183,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "321": {
+    "item_count": 10,
+    "freq": 65,
+    "avg_freq": 6.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "322": {
+    "item_count": 18,
+    "freq": 2010,
+    "avg_freq": 111.66666666666667,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "323": {
+    "item_count": 12,
+    "freq": 147,
+    "avg_freq": 12.25,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "324": {
+    "item_count": 11,
+    "freq": 5472,
+    "avg_freq": 497.45454545454544,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "325": {
+    "item_count": 19,
+    "freq": 269,
+    "avg_freq": 14.157894736842104,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "326": {
+    "item_count": 20,
+    "freq": 388,
+    "avg_freq": 19.4,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "327": {
+    "item_count": 102,
+    "freq": 10887,
+    "avg_freq": 106.73529411764706,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "328": {
+    "item_count": 25,
+    "freq": 1164,
+    "avg_freq": 46.56,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "329": {
+    "item_count": 35,
+    "freq": 3490,
+    "avg_freq": 99.71428571428571,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "330": {
+    "item_count": 16,
+    "freq": 181,
+    "avg_freq": 11.3125,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "331": {
+    "item_count": 15,
+    "freq": 127,
+    "avg_freq": 8.466666666666667,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "332": {
+    "item_count": 13,
+    "freq": 1549,
+    "avg_freq": 119.15384615384616,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "333": {
+    "item_count": 13,
+    "freq": 82,
+    "avg_freq": 6.3076923076923075,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "334": {
+    "item_count": 31,
+    "freq": 2653,
+    "avg_freq": 85.58064516129032,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "335": {
+    "item_count": 30,
+    "freq": 319,
+    "avg_freq": 10.633333333333333,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "336": {
+    "item_count": 26,
+    "freq": 5589,
+    "avg_freq": 214.96153846153845,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "337": {
+    "item_count": 10,
+    "freq": 89,
+    "avg_freq": 8.9,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "338": {
+    "item_count": 22,
+    "freq": 135,
+    "avg_freq": 6.136363636363637,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "339": {
+    "item_count": 11,
+    "freq": 215,
+    "avg_freq": 19.545454545454547,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "340": {
+    "item_count": 28,
+    "freq": 2501,
+    "avg_freq": 89.32142857142857,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "341": {
+    "item_count": 36,
+    "freq": 3911,
+    "avg_freq": 108.63888888888889,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "342": {
+    "item_count": 17,
+    "freq": 238,
+    "avg_freq": 14.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "343": {
+    "item_count": 28,
+    "freq": 8262,
+    "avg_freq": 295.07142857142856,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "344": {
+    "item_count": 20,
+    "freq": 474,
+    "avg_freq": 23.7,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "345": {
+    "item_count": 14,
+    "freq": 871,
+    "avg_freq": 62.214285714285715,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "346": {
+    "item_count": 15,
+    "freq": 937,
+    "avg_freq": 62.46666666666667,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "347": {
+    "item_count": 11,
+    "freq": 1492,
+    "avg_freq": 135.63636363636363,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "348": {
+    "item_count": 86,
+    "freq": 20364,
+    "avg_freq": 236.7906976744186,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "349": {
+    "item_count": 11,
+    "freq": 614,
+    "avg_freq": 55.81818181818182,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "350": {
+    "item_count": 11,
+    "freq": 106,
+    "avg_freq": 9.636363636363637,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "351": {
+    "item_count": 83,
+    "freq": 12797,
+    "avg_freq": 154.18072289156626,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "352": {
+    "item_count": 11,
+    "freq": 302,
+    "avg_freq": 27.454545454545453,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "353": {
+    "item_count": 17,
+    "freq": 640,
+    "avg_freq": 37.64705882352941,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "354": {
+    "item_count": 29,
+    "freq": 354,
+    "avg_freq": 12.206896551724139,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "355": {
+    "item_count": 10,
+    "freq": 71,
+    "avg_freq": 7.1,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "356": {
+    "item_count": 22,
+    "freq": 499,
+    "avg_freq": 22.681818181818183,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "357": {
+    "item_count": 23,
+    "freq": 1722,
+    "avg_freq": 74.8695652173913,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "358": {
+    "item_count": 21,
+    "freq": 148,
+    "avg_freq": 7.0476190476190474,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "359": {
+    "item_count": 41,
+    "freq": 4223,
+    "avg_freq": 103.0,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "360": {
+    "item_count": 58,
+    "freq": 12801,
+    "avg_freq": 220.70689655172413,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "361": {
+    "item_count": 30,
+    "freq": 3054,
+    "avg_freq": 101.8,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "362": {
+    "item_count": 19,
+    "freq": 236,
+    "avg_freq": 12.421052631578947,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "363": {
+    "item_count": 21,
+    "freq": 5871,
+    "avg_freq": 279.57142857142856,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "364": {
+    "item_count": 11,
+    "freq": 235,
+    "avg_freq": 21.363636363636363,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "365": {
+    "item_count": 12,
+    "freq": 99,
+    "avg_freq": 8.25,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "366": {
+    "item_count": 36,
+    "freq": 2134,
+    "avg_freq": 59.27777777777778,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "367": {
+    "item_count": 10,
+    "freq": 75,
+    "avg_freq": 7.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "368": {
+    "item_count": 27,
+    "freq": 589,
+    "avg_freq": 21.814814814814813,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "369": {
+    "item_count": 11,
+    "freq": 77,
+    "avg_freq": 7.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "370": {
+    "item_count": 11,
+    "freq": 2221,
+    "avg_freq": 201.9090909090909,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "371": {
+    "item_count": 19,
+    "freq": 768,
+    "avg_freq": 40.421052631578945,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "372": {
+    "item_count": 11,
+    "freq": 91,
+    "avg_freq": 8.272727272727273,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "373": {
+    "item_count": 14,
+    "freq": 1642,
+    "avg_freq": 117.28571428571429,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "374": {
+    "item_count": 10,
+    "freq": 118,
+    "avg_freq": 11.8,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "375": {
+    "item_count": 19,
+    "freq": 1331,
+    "avg_freq": 70.05263157894737,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "376": {
+    "item_count": 25,
+    "freq": 2448,
+    "avg_freq": 97.92,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "377": {
+    "item_count": 10,
+    "freq": 323,
+    "avg_freq": 32.3,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "378": {
+    "item_count": 38,
+    "freq": 4564,
+    "avg_freq": 120.10526315789474,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "379": {
+    "item_count": 27,
+    "freq": 2270,
+    "avg_freq": 84.07407407407408,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "380": {
+    "item_count": 21,
+    "freq": 1636,
+    "avg_freq": 77.9047619047619,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "381": {
+    "item_count": 27,
+    "freq": 498,
+    "avg_freq": 18.444444444444443,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "382": {
+    "item_count": 19,
+    "freq": 2241,
+    "avg_freq": 117.94736842105263,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "383": {
+    "item_count": 12,
+    "freq": 94,
+    "avg_freq": 7.833333333333333,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "384": {
+    "item_count": 95,
+    "freq": 15802,
+    "avg_freq": 166.33684210526314,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "385": {
+    "item_count": 12,
+    "freq": 136,
+    "avg_freq": 11.333333333333334,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "386": {
+    "item_count": 10,
+    "freq": 149,
+    "avg_freq": 14.9,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "387": {
+    "item_count": 13,
+    "freq": 106,
+    "avg_freq": 8.153846153846153,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "388": {
+    "item_count": 101,
+    "freq": 30486,
+    "avg_freq": 301.84158415841586,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "389": {
+    "item_count": 48,
+    "freq": 1731,
+    "avg_freq": 36.0625,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "390": {
+    "item_count": 22,
+    "freq": 438,
+    "avg_freq": 19.90909090909091,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "391": {
+    "item_count": 17,
+    "freq": 844,
+    "avg_freq": 49.64705882352941,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "392": {
+    "item_count": 17,
+    "freq": 1349,
+    "avg_freq": 79.3529411764706,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "393": {
+    "item_count": 15,
+    "freq": 311,
+    "avg_freq": 20.733333333333334,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "394": {
+    "item_count": 13,
+    "freq": 131,
+    "avg_freq": 10.076923076923077,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "395": {
+    "item_count": 15,
+    "freq": 242,
+    "avg_freq": 16.133333333333333,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "396": {
+    "item_count": 18,
+    "freq": 1092,
+    "avg_freq": 60.666666666666664,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "397": {
+    "item_count": 29,
+    "freq": 1979,
+    "avg_freq": 68.24137931034483,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "398": {
+    "item_count": 10,
+    "freq": 79,
+    "avg_freq": 7.9,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "399": {
+    "item_count": 25,
+    "freq": 774,
+    "avg_freq": 30.96,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "400": {
+    "item_count": 13,
+    "freq": 1020,
+    "avg_freq": 78.46153846153847,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "401": {
+    "item_count": 10,
+    "freq": 271,
+    "avg_freq": 27.1,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "402": {
+    "item_count": 41,
+    "freq": 12230,
+    "avg_freq": 298.2926829268293,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "403": {
+    "item_count": 10,
+    "freq": 458,
+    "avg_freq": 45.8,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "404": {
+    "item_count": 33,
+    "freq": 840,
+    "avg_freq": 25.454545454545453,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "405": {
+    "item_count": 68,
+    "freq": 2127,
+    "avg_freq": 31.279411764705884,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "406": {
+    "item_count": 36,
+    "freq": 3529,
+    "avg_freq": 98.02777777777777,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "407": {
+    "item_count": 12,
+    "freq": 4508,
+    "avg_freq": 375.6666666666667,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "408": {
+    "item_count": 25,
+    "freq": 497,
+    "avg_freq": 19.88,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "409": {
+    "item_count": 60,
+    "freq": 9813,
+    "avg_freq": 163.55,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "410": {
+    "item_count": 34,
+    "freq": 1316,
+    "avg_freq": 38.705882352941174,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "411": {
+    "item_count": 47,
+    "freq": 4153,
+    "avg_freq": 88.36170212765957,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "412": {
+    "item_count": 34,
+    "freq": 1261,
+    "avg_freq": 37.088235294117645,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "413": {
+    "item_count": 33,
+    "freq": 4985,
+    "avg_freq": 151.06060606060606,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "414": {
+    "item_count": 41,
+    "freq": 5859,
+    "avg_freq": 142.90243902439025,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "415": {
+    "item_count": 20,
+    "freq": 1663,
+    "avg_freq": 83.15,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "416": {
+    "item_count": 39,
+    "freq": 1744,
+    "avg_freq": 44.717948717948715,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "417": {
+    "item_count": 19,
+    "freq": 2164,
+    "avg_freq": 113.89473684210526,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "418": {
+    "item_count": 10,
+    "freq": 144,
+    "avg_freq": 14.4,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "419": {
+    "item_count": 13,
+    "freq": 207,
+    "avg_freq": 15.923076923076923,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "420": {
+    "item_count": 16,
+    "freq": 273,
+    "avg_freq": 17.0625,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "421": {
+    "item_count": 14,
+    "freq": 90,
+    "avg_freq": 6.428571428571429,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "422": {
+    "item_count": 14,
+    "freq": 448,
+    "avg_freq": 32.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "423": {
+    "item_count": 16,
+    "freq": 1789,
+    "avg_freq": 111.8125,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "424": {
+    "item_count": 32,
+    "freq": 1305,
+    "avg_freq": 40.78125,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "425": {
+    "item_count": 29,
+    "freq": 565,
+    "avg_freq": 19.482758620689655,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "426": {
+    "item_count": 23,
+    "freq": 724,
+    "avg_freq": 31.47826086956522,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "427": {
+    "item_count": 26,
+    "freq": 295,
+    "avg_freq": 11.346153846153847,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "428": {
+    "item_count": 44,
+    "freq": 1946,
+    "avg_freq": 44.22727272727273,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "429": {
+    "item_count": 44,
+    "freq": 6121,
+    "avg_freq": 139.11363636363637,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "430": {
+    "item_count": 12,
+    "freq": 631,
+    "avg_freq": 52.583333333333336,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "431": {
+    "item_count": 21,
+    "freq": 7908,
+    "avg_freq": 376.57142857142856,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "432": {
+    "item_count": 34,
+    "freq": 5499,
+    "avg_freq": 161.73529411764707,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "433": {
+    "item_count": 10,
+    "freq": 129,
+    "avg_freq": 12.9,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "434": {
+    "item_count": 11,
+    "freq": 388,
+    "avg_freq": 35.27272727272727,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "435": {
+    "item_count": 11,
+    "freq": 601,
+    "avg_freq": 54.63636363636363,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "436": {
+    "item_count": 17,
+    "freq": 2410,
+    "avg_freq": 141.76470588235293,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "437": {
+    "item_count": 32,
+    "freq": 1610,
+    "avg_freq": 50.3125,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "438": {
+    "item_count": 45,
+    "freq": 1445,
+    "avg_freq": 32.111111111111114,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "439": {
+    "item_count": 11,
+    "freq": 845,
+    "avg_freq": 76.81818181818181,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "440": {
+    "item_count": 10,
+    "freq": 329,
+    "avg_freq": 32.9,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "441": {
+    "item_count": 11,
+    "freq": 74,
+    "avg_freq": 6.7272727272727275,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "442": {
+    "item_count": 15,
+    "freq": 153,
+    "avg_freq": 10.2,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "443": {
+    "item_count": 13,
+    "freq": 512,
+    "avg_freq": 39.38461538461539,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "444": {
+    "item_count": 10,
+    "freq": 102,
+    "avg_freq": 10.2,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "445": {
+    "item_count": 54,
+    "freq": 3370,
+    "avg_freq": 62.407407407407405,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "446": {
+    "item_count": 61,
+    "freq": 11203,
+    "avg_freq": 183.65573770491804,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "447": {
+    "item_count": 16,
+    "freq": 1590,
+    "avg_freq": 99.375,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "448": {
+    "item_count": 15,
+    "freq": 136,
+    "avg_freq": 9.066666666666666,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "449": {
+    "item_count": 24,
+    "freq": 2904,
+    "avg_freq": 121.0,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "450": {
+    "item_count": 13,
+    "freq": 167,
+    "avg_freq": 12.846153846153847,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "451": {
+    "item_count": 10,
+    "freq": 115,
+    "avg_freq": 11.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "452": {
+    "item_count": 25,
+    "freq": 1465,
+    "avg_freq": 58.6,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "453": {
+    "item_count": 19,
+    "freq": 158,
+    "avg_freq": 8.31578947368421,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "454": {
+    "item_count": 22,
+    "freq": 2214,
+    "avg_freq": 100.63636363636364,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "455": {
+    "item_count": 11,
+    "freq": 1340,
+    "avg_freq": 121.81818181818181,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "456": {
+    "item_count": 14,
+    "freq": 840,
+    "avg_freq": 60.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "457": {
+    "item_count": 11,
+    "freq": 193,
+    "avg_freq": 17.545454545454547,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "458": {
+    "item_count": 25,
+    "freq": 534,
+    "avg_freq": 21.36,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "459": {
+    "item_count": 40,
+    "freq": 268,
+    "avg_freq": 6.7,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "460": {
+    "item_count": 28,
+    "freq": 1216,
+    "avg_freq": 43.42857142857143,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "461": {
+    "item_count": 34,
+    "freq": 4588,
+    "avg_freq": 134.94117647058823,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "462": {
+    "item_count": 14,
+    "freq": 82,
+    "avg_freq": 5.857142857142857,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "463": {
+    "item_count": 12,
+    "freq": 226,
+    "avg_freq": 18.833333333333332,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "464": {
+    "item_count": 29,
+    "freq": 670,
+    "avg_freq": 23.103448275862068,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "465": {
+    "item_count": 11,
+    "freq": 301,
+    "avg_freq": 27.363636363636363,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "466": {
+    "item_count": 14,
+    "freq": 1325,
+    "avg_freq": 94.64285714285714,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "467": {
+    "item_count": 19,
+    "freq": 440,
+    "avg_freq": 23.157894736842106,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "468": {
+    "item_count": 12,
+    "freq": 408,
+    "avg_freq": 34.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "469": {
+    "item_count": 10,
+    "freq": 149,
+    "avg_freq": 14.9,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "470": {
+    "item_count": 12,
+    "freq": 663,
+    "avg_freq": 55.25,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "471": {
+    "item_count": 11,
+    "freq": 831,
+    "avg_freq": 75.54545454545455,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "472": {
+    "item_count": 23,
+    "freq": 931,
+    "avg_freq": 40.47826086956522,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "473": {
+    "item_count": 10,
+    "freq": 145,
+    "avg_freq": 14.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "474": {
+    "item_count": 27,
+    "freq": 429,
+    "avg_freq": 15.88888888888889,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "475": {
+    "item_count": 50,
+    "freq": 3938,
+    "avg_freq": 78.76,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "476": {
+    "item_count": 128,
+    "freq": 5286,
+    "avg_freq": 41.296875,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "477": {
+    "item_count": 14,
+    "freq": 197,
+    "avg_freq": 14.071428571428571,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "478": {
+    "item_count": 12,
+    "freq": 128,
+    "avg_freq": 10.666666666666666,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "479": {
+    "item_count": 13,
+    "freq": 91,
+    "avg_freq": 7.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "480": {
+    "item_count": 17,
+    "freq": 1174,
+    "avg_freq": 69.05882352941177,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "481": {
+    "item_count": 13,
+    "freq": 642,
+    "avg_freq": 49.38461538461539,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "482": {
+    "item_count": 28,
+    "freq": 1223,
+    "avg_freq": 43.67857142857143,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "483": {
+    "item_count": 21,
+    "freq": 2301,
+    "avg_freq": 109.57142857142857,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "484": {
+    "item_count": 17,
+    "freq": 1626,
+    "avg_freq": 95.6470588235294,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "485": {
+    "item_count": 60,
+    "freq": 3018,
+    "avg_freq": 50.3,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "486": {
+    "item_count": 14,
+    "freq": 80,
+    "avg_freq": 5.714285714285714,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "487": {
+    "item_count": 58,
+    "freq": 8455,
+    "avg_freq": 145.77586206896552,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "488": {
+    "item_count": 68,
+    "freq": 1488,
+    "avg_freq": 21.88235294117647,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "489": {
+    "item_count": 10,
+    "freq": 204,
+    "avg_freq": 20.4,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "490": {
+    "item_count": 22,
+    "freq": 404,
+    "avg_freq": 18.363636363636363,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "491": {
+    "item_count": 14,
+    "freq": 830,
+    "avg_freq": 59.285714285714285,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "492": {
+    "item_count": 114,
+    "freq": 1030,
+    "avg_freq": 9.035087719298245,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "493": {
+    "item_count": 13,
+    "freq": 212,
+    "avg_freq": 16.307692307692307,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "494": {
+    "item_count": 10,
+    "freq": 488,
+    "avg_freq": 48.8,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "495": {
+    "item_count": 22,
+    "freq": 824,
+    "avg_freq": 37.45454545454545,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "496": {
+    "item_count": 41,
+    "freq": 6385,
+    "avg_freq": 155.73170731707316,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "497": {
+    "item_count": 12,
+    "freq": 377,
+    "avg_freq": 31.416666666666668,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "498": {
+    "item_count": 71,
+    "freq": 1138,
+    "avg_freq": 16.028169014084508,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "499": {
+    "item_count": 11,
+    "freq": 143,
+    "avg_freq": 13.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "500": {
+    "item_count": 12,
+    "freq": 207,
+    "avg_freq": 17.25,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "501": {
+    "item_count": 12,
+    "freq": 1043,
+    "avg_freq": 86.91666666666667,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "502": {
+    "item_count": 10,
+    "freq": 445,
+    "avg_freq": 44.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "503": {
+    "item_count": 13,
+    "freq": 99,
+    "avg_freq": 7.615384615384615,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "504": {
+    "item_count": 10,
+    "freq": 215,
+    "avg_freq": 21.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "505": {
+    "item_count": 12,
+    "freq": 317,
+    "avg_freq": 26.416666666666668,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "506": {
+    "item_count": 19,
+    "freq": 395,
+    "avg_freq": 20.789473684210527,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "507": {
+    "item_count": 44,
+    "freq": 8004,
+    "avg_freq": 181.9090909090909,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "508": {
+    "item_count": 16,
+    "freq": 2414,
+    "avg_freq": 150.875,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "509": {
+    "item_count": 25,
+    "freq": 1716,
+    "avg_freq": 68.64,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "510": {
+    "item_count": 19,
+    "freq": 247,
+    "avg_freq": 13.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "511": {
+    "item_count": 33,
+    "freq": 3184,
+    "avg_freq": 96.48484848484848,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "512": {
+    "item_count": 27,
+    "freq": 2094,
+    "avg_freq": 77.55555555555556,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "513": {
+    "item_count": 12,
+    "freq": 139,
+    "avg_freq": 11.583333333333334,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "514": {
+    "item_count": 13,
+    "freq": 322,
+    "avg_freq": 24.76923076923077,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "515": {
+    "item_count": 12,
+    "freq": 116,
+    "avg_freq": 9.666666666666666,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "516": {
+    "item_count": 12,
+    "freq": 217,
+    "avg_freq": 18.083333333333332,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "517": {
+    "item_count": 20,
+    "freq": 4133,
+    "avg_freq": 206.65,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "518": {
+    "item_count": 12,
+    "freq": 133,
+    "avg_freq": 11.083333333333334,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "519": {
+    "item_count": 15,
+    "freq": 152,
+    "avg_freq": 10.133333333333333,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "520": {
+    "item_count": 36,
+    "freq": 9778,
+    "avg_freq": 271.6111111111111,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "521": {
+    "item_count": 21,
+    "freq": 510,
+    "avg_freq": 24.285714285714285,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "522": {
+    "item_count": 23,
+    "freq": 940,
+    "avg_freq": 40.869565217391305,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "523": {
+    "item_count": 38,
+    "freq": 903,
+    "avg_freq": 23.763157894736842,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "524": {
+    "item_count": 45,
+    "freq": 3396,
+    "avg_freq": 75.46666666666667,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "525": {
+    "item_count": 19,
+    "freq": 874,
+    "avg_freq": 46.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "526": {
+    "item_count": 13,
+    "freq": 166,
+    "avg_freq": 12.76923076923077,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "527": {
+    "item_count": 83,
+    "freq": 9196,
+    "avg_freq": 110.79518072289157,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "528": {
+    "item_count": 15,
+    "freq": 1714,
+    "avg_freq": 114.26666666666667,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "529": {
+    "item_count": 14,
+    "freq": 1914,
+    "avg_freq": 136.71428571428572,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "530": {
+    "item_count": 12,
+    "freq": 139,
+    "avg_freq": 11.583333333333334,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "531": {
+    "item_count": 14,
+    "freq": 381,
+    "avg_freq": 27.214285714285715,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "532": {
+    "item_count": 27,
+    "freq": 1283,
+    "avg_freq": 47.51851851851852,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "533": {
+    "item_count": 15,
+    "freq": 190,
+    "avg_freq": 12.666666666666666,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "534": {
+    "item_count": 11,
+    "freq": 203,
+    "avg_freq": 18.454545454545453,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "535": {
+    "item_count": 10,
+    "freq": 223,
+    "avg_freq": 22.3,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "536": {
+    "item_count": 23,
+    "freq": 4249,
+    "avg_freq": 184.7391304347826,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "537": {
+    "item_count": 22,
+    "freq": 4063,
+    "avg_freq": 184.6818181818182,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "538": {
+    "item_count": 43,
+    "freq": 440,
+    "avg_freq": 10.232558139534884,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "539": {
+    "item_count": 19,
+    "freq": 1959,
+    "avg_freq": 103.10526315789474,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "540": {
+    "item_count": 16,
+    "freq": 300,
+    "avg_freq": 18.75,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "541": {
+    "item_count": 10,
+    "freq": 4057,
+    "avg_freq": 405.7,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "542": {
+    "item_count": 16,
+    "freq": 846,
+    "avg_freq": 52.875,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "543": {
+    "item_count": 10,
+    "freq": 140,
+    "avg_freq": 14.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "544": {
+    "item_count": 48,
+    "freq": 8727,
+    "avg_freq": 181.8125,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "545": {
+    "item_count": 15,
+    "freq": 1781,
+    "avg_freq": 118.73333333333333,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "546": {
+    "item_count": 20,
+    "freq": 385,
+    "avg_freq": 19.25,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "547": {
+    "item_count": 30,
+    "freq": 2262,
+    "avg_freq": 75.4,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "548": {
+    "item_count": 14,
+    "freq": 932,
+    "avg_freq": 66.57142857142857,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "549": {
+    "item_count": 31,
+    "freq": 2331,
+    "avg_freq": 75.19354838709677,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "550": {
+    "item_count": 24,
+    "freq": 1454,
+    "avg_freq": 60.583333333333336,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "551": {
+    "item_count": 12,
+    "freq": 260,
+    "avg_freq": 21.666666666666668,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "552": {
+    "item_count": 29,
+    "freq": 312,
+    "avg_freq": 10.758620689655173,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "553": {
+    "item_count": 13,
+    "freq": 2880,
+    "avg_freq": 221.53846153846155,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "554": {
+    "item_count": 23,
+    "freq": 1969,
+    "avg_freq": 85.6086956521739,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "555": {
+    "item_count": 13,
+    "freq": 828,
+    "avg_freq": 63.69230769230769,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "556": {
+    "item_count": 16,
+    "freq": 1936,
+    "avg_freq": 121.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "557": {
+    "item_count": 20,
+    "freq": 200,
+    "avg_freq": 10.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "558": {
+    "item_count": 18,
+    "freq": 690,
+    "avg_freq": 38.333333333333336,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "559": {
+    "item_count": 22,
+    "freq": 397,
+    "avg_freq": 18.045454545454547,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "560": {
+    "item_count": 25,
+    "freq": 1762,
+    "avg_freq": 70.48,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "561": {
+    "item_count": 29,
+    "freq": 319,
+    "avg_freq": 11.0,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "562": {
+    "item_count": 17,
+    "freq": 278,
+    "avg_freq": 16.352941176470587,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "563": {
+    "item_count": 19,
+    "freq": 265,
+    "avg_freq": 13.947368421052632,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "564": {
+    "item_count": 15,
+    "freq": 120,
+    "avg_freq": 8.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "565": {
+    "item_count": 36,
+    "freq": 2052,
+    "avg_freq": 57.0,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "566": {
+    "item_count": 12,
+    "freq": 132,
+    "avg_freq": 11.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "567": {
+    "item_count": 20,
+    "freq": 385,
+    "avg_freq": 19.25,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "568": {
+    "item_count": 12,
+    "freq": 546,
+    "avg_freq": 45.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "569": {
+    "item_count": 14,
+    "freq": 133,
+    "avg_freq": 9.5,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "570": {
+    "item_count": 10,
+    "freq": 460,
+    "avg_freq": 46.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "571": {
+    "item_count": 24,
+    "freq": 322,
+    "avg_freq": 13.416666666666666,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "572": {
+    "item_count": 24,
+    "freq": 386,
+    "avg_freq": 16.083333333333332,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "573": {
+    "item_count": 34,
+    "freq": 3048,
+    "avg_freq": 89.6470588235294,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "574": {
+    "item_count": 24,
+    "freq": 1109,
+    "avg_freq": 46.208333333333336,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "575": {
+    "item_count": 10,
+    "freq": 198,
+    "avg_freq": 19.8,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "576": {
+    "item_count": 26,
+    "freq": 649,
+    "avg_freq": 24.96153846153846,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "577": {
+    "item_count": 11,
+    "freq": 114,
+    "avg_freq": 10.363636363636363,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "578": {
+    "item_count": 12,
+    "freq": 613,
+    "avg_freq": 51.083333333333336,
+    "meta_group_size": 0,
+    "meta_group_freq": 2
+  },
+  "579": {
+    "item_count": 18,
+    "freq": 1554,
+    "avg_freq": 86.33333333333333,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "580": {
+    "item_count": 38,
+    "freq": 2564,
+    "avg_freq": 67.47368421052632,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "581": {
+    "item_count": 11,
+    "freq": 73,
+    "avg_freq": 6.636363636363637,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "582": {
+    "item_count": 13,
+    "freq": 421,
+    "avg_freq": 32.38461538461539,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "583": {
+    "item_count": 18,
+    "freq": 305,
+    "avg_freq": 16.944444444444443,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "584": {
+    "item_count": 11,
+    "freq": 198,
+    "avg_freq": 18.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "585": {
+    "item_count": 22,
+    "freq": 2293,
+    "avg_freq": 104.22727272727273,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "586": {
+    "item_count": 23,
+    "freq": 910,
+    "avg_freq": 39.56521739130435,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "587": {
+    "item_count": 10,
+    "freq": 286,
+    "avg_freq": 28.6,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "588": {
+    "item_count": 11,
+    "freq": 116,
+    "avg_freq": 10.545454545454545,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "589": {
+    "item_count": 11,
+    "freq": 382,
+    "avg_freq": 34.72727272727273,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "590": {
+    "item_count": 15,
+    "freq": 217,
+    "avg_freq": 14.466666666666667,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "591": {
+    "item_count": 27,
+    "freq": 210,
+    "avg_freq": 7.777777777777778,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "592": {
+    "item_count": 10,
+    "freq": 225,
+    "avg_freq": 22.5,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "593": {
+    "item_count": 22,
+    "freq": 322,
+    "avg_freq": 14.636363636363637,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "594": {
+    "item_count": 19,
+    "freq": 444,
+    "avg_freq": 23.36842105263158,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "595": {
+    "item_count": 10,
+    "freq": 154,
+    "avg_freq": 15.4,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "596": {
+    "item_count": 11,
+    "freq": 125,
+    "avg_freq": 11.363636363636363,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "597": {
+    "item_count": 11,
+    "freq": 266,
+    "avg_freq": 24.181818181818183,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "598": {
+    "item_count": 10,
+    "freq": 123,
+    "avg_freq": 12.3,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "599": {
+    "item_count": 12,
+    "freq": 322,
+    "avg_freq": 26.833333333333332,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "600": {
+    "item_count": 18,
+    "freq": 193,
+    "avg_freq": 10.722222222222221,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "601": {
+    "item_count": 50,
+    "freq": 8331,
+    "avg_freq": 166.62,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "602": {
+    "item_count": 23,
+    "freq": 598,
+    "avg_freq": 26.0,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "603": {
+    "item_count": 11,
+    "freq": 282,
+    "avg_freq": 25.636363636363637,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "604": {
+    "item_count": 30,
+    "freq": 2650,
+    "avg_freq": 88.33333333333333,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "605": {
+    "item_count": 18,
+    "freq": 1178,
+    "avg_freq": 65.44444444444444,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "606": {
+    "item_count": 10,
+    "freq": 286,
+    "avg_freq": 28.6,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "607": {
+    "item_count": 22,
+    "freq": 445,
+    "avg_freq": 20.227272727272727,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "608": {
+    "item_count": 36,
+    "freq": 399,
+    "avg_freq": 11.083333333333334,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "609": {
+    "item_count": 17,
+    "freq": 391,
+    "avg_freq": 23.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "610": {
+    "item_count": 17,
+    "freq": 255,
+    "avg_freq": 15.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "611": {
+    "item_count": 41,
+    "freq": 4812,
+    "avg_freq": 117.36585365853658,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "612": {
+    "item_count": 28,
+    "freq": 533,
+    "avg_freq": 19.035714285714285,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "613": {
+    "item_count": 10,
+    "freq": 94,
+    "avg_freq": 9.4,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "614": {
+    "item_count": 10,
+    "freq": 87,
+    "avg_freq": 8.7,
+    "meta_group_size": 0,
+    "meta_group_freq": 0
+  },
+  "615": {
+    "item_count": 16,
+    "freq": 248,
+    "avg_freq": 15.5,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "616": {
+    "item_count": 23,
+    "freq": 1551,
+    "avg_freq": 67.43478260869566,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "617": {
+    "item_count": 22,
+    "freq": 626,
+    "avg_freq": 28.454545454545453,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "618": {
+    "item_count": 50,
+    "freq": 557,
+    "avg_freq": 11.14,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "619": {
+    "item_count": 18,
+    "freq": 2764,
+    "avg_freq": 153.55555555555554,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "620": {
+    "item_count": 21,
+    "freq": 376,
+    "avg_freq": 17.904761904761905,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "621": {
+    "item_count": 10,
+    "freq": 190,
+    "avg_freq": 19.0,
+    "meta_group_size": 0,
+    "meta_group_freq": 1
+  },
+  "622": {
+    "item_count": 33,
+    "freq": 281,
+    "avg_freq": 8.515151515151516,
+    "meta_group_size": 2,
+    "meta_group_freq": 0
+  },
+  "623": {
+    "item_count": 16,
+    "freq": 192,
+    "avg_freq": 12.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "624": {
+    "item_count": 17,
+    "freq": 284,
+    "avg_freq": 16.705882352941178,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "625": {
+    "item_count": 63,
+    "freq": 7083,
+    "avg_freq": 112.42857142857143,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "626": {
+    "item_count": 78,
+    "freq": 3330,
+    "avg_freq": 42.69230769230769,
+    "meta_group_size": 2,
+    "meta_group_freq": 1
+  },
+  "627": {
+    "item_count": 15,
+    "freq": 76,
+    "avg_freq": 5.066666666666666,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "628": {
+    "item_count": 17,
+    "freq": 2600,
+    "avg_freq": 152.94117647058823,
+    "meta_group_size": 1,
+    "meta_group_freq": 2
+  },
+  "629": {
+    "item_count": 21,
+    "freq": 313,
+    "avg_freq": 14.904761904761905,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "630": {
+    "item_count": 14,
+    "freq": 115,
+    "avg_freq": 8.214285714285714,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "631": {
+    "item_count": 15,
+    "freq": 159,
+    "avg_freq": 10.6,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "632": {
+    "item_count": 16,
+    "freq": 192,
+    "avg_freq": 12.0,
+    "meta_group_size": 1,
+    "meta_group_freq": 0
+  },
+  "633": {
+    "item_count": 31,
+    "freq": 3759,
+    "avg_freq": 121.25806451612904,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "634": {
+    "item_count": 62,
+    "freq": 7921,
+    "avg_freq": 127.75806451612904,
+    "meta_group_size": 2,
+    "meta_group_freq": 2
+  },
+  "635": {
+    "item_count": 18,
+    "freq": 596,
+    "avg_freq": 33.111111111111114,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  },
+  "636": {
+    "item_count": 20,
+    "freq": 395,
+    "avg_freq": 19.75,
+    "meta_group_size": 1,
+    "meta_group_freq": 1
+  }
+}

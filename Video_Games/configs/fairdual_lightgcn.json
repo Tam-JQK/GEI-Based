@@ -1,0 +1,52 @@
+{
+  "learning_rate": [
+    0.001
+  ],
+  "reg_lambda": [
+    1e-05
+  ],
+  "GCN_layer": [
+    1
+  ],
+  "embedding_size": [
+    64
+  ],
+  "batch_size": [
+    4096
+  ],
+  "weight_decay": [
+    1e-05
+  ],
+  "eta": [
+    0.001,
+    0.0005,
+    0.002
+  ],
+  "rank_model": [
+    "FairDualPaper"
+  ],
+  "update_epoch": [
+    30
+  ],
+  "alpha": [
+    0.8
+  ],
+  "exposure_sample_num": [
+    700
+  ],
+  "lambd": [
+    1
+  ],
+  "s_k": [
+    20
+  ],
+  "epochs": [
+    1000
+  ],
+  "eval_every": [
+    5
+  ],
+  "eval_batch_size": [
+    256
+  ]
+}

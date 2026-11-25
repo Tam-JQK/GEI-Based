@@ -1,0 +1,25 @@
+{
+  "candidate_mode": "full",
+  "sample_num": 200,
+  "candidate_seed": 2025,
+  "candidate_version": 1,
+  "exclusion": "all_retained_positive_interactions_except_current_split_positives",
+  "source_sha256": "5ca61ab960c5bb7ca2a9c068a272d4deffc27c3cd0a6527287ede8e64d4879d0",
+  "item_num": 13912,
+  "statistics": {
+    "valid": {
+      "users": 38145,
+      "min_candidates": 13286,
+      "max_candidates": 13910,
+      "users_exceeding_target_positive_count": 0,
+      "users_with_insufficient_negatives": 0
+    },
+    "test": {
+      "users": 37568,
+      "min_candidates": 13286,
+      "max_candidates": 13910,
+      "users_exceeding_target_positive_count": 0,
+      "users_with_insufficient_negatives": 0
+    }
+  }
+}
